@@ -1,1 +1,2 @@
-# SQL-and-Python-
+# SQL-and-Python
+In this data analysis project, I utilized SQL for data extraction, transformation  enabling efficient querying and management of large datasets. I then employed Python for data cleaning, exploratory data analysis (EDA), and visualization using libraries like Pandas, NumPy, Matplotlib, and Seaborn. Machine learning algorithms were implemented using Scikit-learn to uncover patterns and make predictions. The project involved integrating SQL and Python workflows to ensure seamless data handling and comprehensive analysis. 
